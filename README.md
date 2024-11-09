@@ -1,4 +1,11 @@
-# Beauty Salon Finder
+Beauty Salon Finder
+
+
+![5873112124102918799](https://github.com/user-attachments/assets/2b36f9e0-901a-4c8f-94b5-3ba9f5f0da1a)
+
+![5873112124102918800](https://github.com/user-attachments/assets/82fba0a4-e6cb-423d-a198-156ca2785a3a)
+
+
 
 Beauty Salon Finder is a mobile application built with [React Native](https://reactnative.dev/) and [Expo](https://expo.dev/), designed to help users find nearby beauty salons quickly and easily. With features like salon listings, location-based search, and detailed salon profiles, it provides a convenient way for users to locate beauty services.
 
